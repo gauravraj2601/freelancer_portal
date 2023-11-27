@@ -22,5 +22,11 @@
         "profile_picture": "profile2.jpg",
               "isBooked" : true
       }
+    ],
+    "users":[
+      {
+        "email":"gaurav@gmail.com",
+        "password":"gaurav"
+      }
     ]
   }
