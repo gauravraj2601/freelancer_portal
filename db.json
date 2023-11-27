@@ -25,6 +25,7 @@
     ],
     "users":[
       {
+        "name":"Gaurav",
         "email":"gaurav@gmail.com",
         "password":"gaurav"
       }
