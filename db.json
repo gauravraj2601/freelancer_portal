@@ -28,7 +28,15 @@
         "id":1,
         "name":"Gaurav",
         "email":"gaurav@gmail.com",
-        "password":"gaurav"
+        "password":"gaurav",
+        "bmiHistory": []
+      },
+      {
+        "id":2,
+        "name":"Rahul",
+        "email":"rahul@gmail.com",
+        "password":"rahul",
+        "bmiHistory": []
       }
     ]
   }
