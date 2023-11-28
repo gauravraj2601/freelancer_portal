@@ -29,7 +29,20 @@
         "name":"Gaurav",
         "email":"gaurav@gmail.com",
         "password":"gaurav",
-        "bmiHistory": []
+        "bmiHistory": [
+          {
+            "date": "11/28/2023",
+            "bmi": "8.89"
+            },
+            {
+            "date": "11/28/2023",
+            "bmi": "14.40"
+            },
+            {
+            "date": "11/28/2023",
+            "bmi": "6.40"
+            }
+        ]
       },
       {
         "id":2,
